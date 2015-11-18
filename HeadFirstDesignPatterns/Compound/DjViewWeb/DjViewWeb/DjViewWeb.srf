@@ -1,0 +1,23 @@
+{{handler DjViewWeb.dll/Default}}
+<html>
+<head>
+</head>
+<body>
+<p></p>
+<p>DJ View
+</p>
+<p>Beats per minute = {{BPM}}
+</p>
+<br />
+<hr>
+<br />
+<form action="DjViewWeb.srf" method="post" id="Form1">
+BPM: <input id="bpm" type="text" name="bpm" value="">
+<input id="name" type="submit" name="name" value="set">
+<p><input id="name" type="submit" name="name" value="<<">
+<input id="name" type="submit" name="name" value=">>"></p>
+<p><input id="name" type="submit" name="name" value="on">
+<input id="name" type="submit" name="name" value="off"></p>
+</form>
+</body>
+</html>

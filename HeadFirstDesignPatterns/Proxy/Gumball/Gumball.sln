@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GumballRemote", "GumballRemote\GumballRemote.vcxproj", "{65D2D5E9-DB09-465B-8B76-56F8E385ECE7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GumballMachineTestDrive", "GumballMachineTestDrive\GumballMachineTestDrive.vcxproj", "{25D57CF2-39BC-4C70-8AE5-DABC0C3A6C80}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GumballMonitorTestDrive", "GumballMonitorTestDrive\GumballMonitorTestDrive.vcxproj", "{39C1FD96-09A3-4909-87F8-890D4667069A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D2D5E9-DB09-465B-8B76-56F8E385ECE7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65D2D5E9-DB09-465B-8B76-56F8E385ECE7}.Debug|Win32.Build.0 = Debug|Win32
+		{65D2D5E9-DB09-465B-8B76-56F8E385ECE7}.Release|Win32.ActiveCfg = Release|Win32
+		{65D2D5E9-DB09-465B-8B76-56F8E385ECE7}.Release|Win32.Build.0 = Release|Win32
+		{25D57CF2-39BC-4C70-8AE5-DABC0C3A6C80}.Debug|Win32.ActiveCfg = Release|Win32
+		{25D57CF2-39BC-4C70-8AE5-DABC0C3A6C80}.Debug|Win32.Build.0 = Release|Win32
+		{25D57CF2-39BC-4C70-8AE5-DABC0C3A6C80}.Release|Win32.ActiveCfg = Release|Win32
+		{25D57CF2-39BC-4C70-8AE5-DABC0C3A6C80}.Release|Win32.Build.0 = Release|Win32
+		{39C1FD96-09A3-4909-87F8-890D4667069A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39C1FD96-09A3-4909-87F8-890D4667069A}.Debug|Win32.Build.0 = Debug|Win32
+		{39C1FD96-09A3-4909-87F8-890D4667069A}.Release|Win32.ActiveCfg = Release|Win32
+		{39C1FD96-09A3-4909-87F8-890D4667069A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

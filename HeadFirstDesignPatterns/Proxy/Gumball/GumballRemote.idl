@@ -1,0 +1,12 @@
+[
+	uuid(d483d70c-f79d-4b15-8656-f7aad0e68856),
+	version(1.0),
+	implicit_handle(handle_t gumballRemoteBinding)
+]
+
+interface GumballRemote
+{
+	void getLocation([out, size_is(256)]unsigned char* location);
+	void getCount([out] short* count);
+	void getStateString([out, size_is(256)]unsigned char* stateString);
+}

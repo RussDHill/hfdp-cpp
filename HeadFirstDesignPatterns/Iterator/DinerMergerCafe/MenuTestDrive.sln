@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MenuTestDrive", "MenuTestDrive.vcxproj", "{3C496A85-A316-40FA-8603-CD4A5F562906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C496A85-A316-40FA-8603-CD4A5F562906}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C496A85-A316-40FA-8603-CD4A5F562906}.Debug|Win32.Build.0 = Debug|Win32
+		{3C496A85-A316-40FA-8603-CD4A5F562906}.Release|Win32.ActiveCfg = Release|Win32
+		{3C496A85-A316-40FA-8603-CD4A5F562906}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

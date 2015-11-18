@@ -1,0 +1,8 @@
+; DjViewWebIsapi.def : declares the module parameters for the DLL.
+
+LIBRARY	     "DjViewWebIsapi"
+
+EXPORTS
+	HttpExtensionProc
+	GetExtensionVersion
+	TerminateExtension
